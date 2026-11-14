@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+  <rect width="600" height="420" fill="#E4BB66"/>
+  <g fill="none" stroke="#284B3F" stroke-width="2" opacity=".3">
+    <ellipse cx="300" cy="214" rx="241" ry="150" stroke-dasharray="4 9"/>
+    <path d="M78 87h34m-17-17v34M464 325h36m-18-18v36M453 63h22m-11-11v22"/>
+    <circle cx="101" cy="320" r="6"/><circle cx="510" cy="168" r="5"/>
+  </g>
+  <circle cx="302" cy="210" r="104" fill="#C76B4A" stroke="#284B3F" stroke-width="4"/>
+  <g fill="none" stroke="#F5EEDC" stroke-width="8" stroke-linecap="round">
+    <path d="M238 155q29-19 64-5t53-1M214 190q45-27 88-5t87-4M215 228q38-23 82-2t90-2M238 267q33-17 62-4t53 0"/>
+  </g>
+  <g fill="none" stroke="#284B3F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M227 103q75-58 154 2m-2-21 5 24-25 2"/>
+    <path d="M164 283q-16-18-25-39m-8 21 7-25 24 9"/>
+  </g>
+  <g transform="translate(108 205)" stroke="#284B3F" stroke-width="3" fill="none">
+    <circle r="30" fill="#F5EEDC"/><path d="M0-44v8m0 72v8m-44-44h8m72 0h8m-75-31 6 6m50 50 6 6m-62 0 6-6m50-50 6-6"/>
+    <circle cx="-9" cy="-3" r="2" fill="#284B3F"/><circle cx="9" cy="-3" r="2" fill="#284B3F"/><path d="M-9 10q9 9 18 0"/>
+  </g>
+  <g transform="translate(456 225)" stroke="#284B3F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="37" fill="#F5EEDC"/><path d="M0-28v6m28 6h-6M0 28v-6m-28-22h6M0-18V0l15 10" fill="none"/>
+    <circle r="3" fill="#284B3F"/>
+  </g>
+  <path d="M220 353h164" fill="none" stroke="#284B3F" stroke-width="2"/>
+  <text x="302" y="378" text-anchor="middle" fill="#284B3F" font-family="Georgia,serif" font-size="14" letter-spacing="3">243 &gt; 225</text>
+</svg>

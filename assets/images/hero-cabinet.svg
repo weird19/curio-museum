@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+  <rect width="600" height="420" fill="#D7E1D2"/>
+  <g stroke="#284B3F" stroke-linecap="round" stroke-linejoin="round">
+    <!-- A miniature curiosity cabinet; decorative objects, not exhibit diagrams. -->
+    <path d="M58 374h484M82 380v13m436-13v13" fill="none" stroke-width="4"/>
+    <rect x="66" y="32" width="468" height="344" rx="5" fill="#F5EEDC" stroke-width="4"/>
+    <path d="M80 46h440v316H80Z" fill="none" stroke-width="1.5"/>
+    <path d="M300 47v315M80 204h440" fill="none" stroke-width="4"/>
+    <path d="M81 209h218m3 0h217" fill="none" stroke-width="1" opacity=".4"/>
+
+    <!-- Butterfly under a bell jar. -->
+    <path d="M125 169v-51a59 59 0 0 1 118 0v51" fill="#D7E1D2" fill-opacity=".5" stroke-width="2.5"/>
+    <path d="M139 114q0-32 29-40" fill="none" stroke-width="2" opacity=".4"/>
+    <path d="M184 131c-45-65-70-32-36 0-28 32 12 38 36 3Z" fill="#C76B4A" stroke-width="2.5"/>
+    <path d="M184 131c45-65 70-32 36 0 28 32-12 38-36 3Z" fill="#E4BB66" stroke-width="2.5"/>
+    <path d="M184 117v38m0-36-8-10m8 10 8-10" fill="none" stroke-width="3"/>
+    <path d="m159 116 10 8m40-8-10 8m-40 19 10-5m40 5-10-5" fill="none" stroke-width="2"/>
+    <rect x="115" y="169" width="139" height="10" rx="3" fill="#284B3F" stroke-width="2"/>
+    <rect x="167" y="186" width="35" height="8" rx="1" fill="#E4BB66" stroke-width="1"/>
+
+    <!-- An orbital model, with a separate axis and pedestal. -->
+    <path d="m383 71 54 86m-26-20v33m-22 8h44l-7-8h-30Z" fill="#C76B4A" stroke-width="3"/>
+    <circle cx="410" cy="111" r="42" fill="#E4BB66" stroke-width="3"/>
+    <path d="M383 95q25 10 54 0m-63 20q36 16 76 0m-65 20q23 8 47 0" fill="none" stroke="#C76B4A" stroke-width="4"/>
+    <ellipse cx="410" cy="111" rx="69" ry="19" transform="rotate(-24 410 111)" fill="none" stroke-width="2.5"/>
+    <circle cx="464" cy="78" r="7" fill="#C76B4A" stroke-width="2"/>
+    <rect x="394" y="186" width="35" height="8" rx="1" fill="#E4BB66" stroke-width="1"/>
+
+    <!-- A key displayed on an archival specimen card. -->
+    <g transform="rotate(-8 185 284)">
+      <rect x="113" y="233" width="144" height="105" fill="#D7E1D2" stroke-width="1.5"/>
+      <path d="M124 244h12m-12 0v12m121-12h-12m12 0v12m-121 70h12m-12 0v-12m121 12h-12m12 0v-12" fill="none" stroke-width="1"/>
+      <path d="M166 282h61v12h-9v-6h-11v12h-10v-18" fill="#E4BB66" stroke-width="3"/>
+      <circle cx="151" cy="282" r="21" fill="#E4BB66" stroke-width="3"/>
+      <circle cx="151" cy="282" r="10" fill="#D7E1D2" stroke-width="2"/>
+      <path d="M142 319h77" fill="none" stroke-width="1.5" opacity=".4"/>
+    </g>
+    <rect x="167" y="346" width="35" height="8" rx="1" fill="#E4BB66" stroke-width="1"/>
+
+    <!-- Bubbling flask. -->
+    <path d="M393 236v36l-32 49q-8 15 10 15h80q18 0 10-15l-32-49v-36" fill="#D7E1D2" stroke-width="3"/>
+    <path d="m378 300-14 24q-4 9 8 9h78q12 0 8-9l-14-24q-17 10-33 0t-33 0Z" fill="#C76B4A" stroke="none"/>
+    <path d="M389 235h44m-38 9h32m-42 65-7 12" fill="none" stroke-width="3"/>
+    <circle cx="406" cy="316" r="4" fill="#E4BB66" stroke="none"/>
+    <circle cx="432" cy="322" r="3" fill="#F5EEDC" stroke="none"/>
+    <circle cx="407" cy="267" r="4" fill="#E4BB66" stroke-width="1.5"/>
+    <circle cx="411" cy="218" r="3" fill="none" stroke-width="1.5"/>
+    <rect x="394" y="346" width="35" height="8" rx="1" fill="#E4BB66" stroke-width="1"/>
+    <path d="M336 249h16m-8-8v16m131 22h14m-7-7v14" fill="none" stroke-width="1.5" opacity=".6"/>
+  </g>
+</svg>

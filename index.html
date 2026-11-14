@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="走進奇趣冷知識博物館，探索動物、科學、歷史與日常裡的小小驚奇。">
+  <title>Curio Museum｜奇趣冷知識博物館</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/main.js" defer></script>
+</head>
+<body id="top">
+  <a class="skip-link" href="#collection">跳至展品列表</a>
+  <header class="site-header container">
+    <a class="brand" href="#top" aria-label="奇趣冷知識博物館首頁"><span class="brand-mark" aria-hidden="true">✳</span><span>CURIO MUSEUM<small>奇趣冷知識博物館</small></span></a>
+    <nav aria-label="主要導覽"><a href="#collection">探索展品</a><a href="#visit">參觀指南</a></nav>
+  </header>
+  <main>
+    <section class="hero container" aria-labelledby="hero-title">
+      <div class="hero-copy"><p class="eyebrow">A MUSEUM FOR THE CURIOUS</p><h1 id="hero-title">世界很大，<br>奇怪的事<em>更多。</em></h1><p class="hero-intro">把「咦，為什麼？」收藏起來。<br>走進日常的另一面，發現那些讓人忍不住分享的小知識。</p><a class="primary-button" href="#collection">開始逛逛 <span aria-hidden="true">↗</span></a><p class="hero-note">不必買票，只需帶上好奇心。</p></div>
+      <div class="hero-art"><div class="specimen-frame"><span class="frame-label">CABINET OF CURIOSITIES</span><img src="assets/images/hero-cabinet.svg" alt="奇趣收藏櫃組合插畫：玻璃罩中的蝴蝶、行星模型、古老鑰匙與冒泡的燒瓶" width="600" height="420"><span class="specimen-caption">收藏世界的問號，打開好奇的抽屜。</span></div><span class="curiosity-stamp" aria-hidden="true">保持好奇<br>STAY CURIOUS</span></div>
+    </section>
+    <div class="museum-strip"><div class="container">生活裡的問號，都是值得收藏的展品。<span aria-hidden="true">✳</span> LITTLE FACTS, BIG WONDER</div></div>
+    <section class="collection container" id="collection" aria-labelledby="collection-title">
+      <div class="section-heading"><div><p class="eyebrow">THE COLLECTION</p><h2 id="collection-title">今天，想探索什麼？</h2></div><button class="random-button" id="random-exhibit" type="button" disabled>隨機發現一件 ↗</button></div>
+      <div class="filters" role="group" aria-label="依展區篩選">
+        <button type="button" data-category="all" aria-pressed="true">全部展品</button><button type="button" data-category="animals" aria-pressed="false">動物奇聞館</button><button type="button" data-category="science" aria-pressed="false">科學腦洞館</button><button type="button" data-category="history" aria-pressed="false">歷史怪事館</button><button type="button" data-category="everyday" aria-pressed="false">日常為什麼館</button>
+      </div>
+      <p class="collection-status" id="collection-status" role="status">正在整理展品，請稍候……</p>
+      <div class="exhibit-grid" id="exhibit-grid" aria-busy="true"></div>
+      <noscript><p>請啟用 JavaScript，以載入展品及使用分類與詳細視窗。</p></noscript>
+    </section>
+    <aside class="visit-note container" id="visit"><span class="visit-symbol" aria-hidden="true">✧</span><div><p class="eyebrow">A NOTE FROM THE CURATOR</p><h2>好奇心，是最好的入場券。</h2><p>選一個展區，點開一件展品，帶走一個新發現。每則知識都附有查證來源，讓探索有趣，也有依據。</p></div><span class="ticket" aria-hidden="true">ADMIT ONE<br><b>好奇心入場券</b><br>隨時開放・自由探索</span></aside>
+  </main>
+  <footer class="site-footer container"><span>CURIO MUSEUM <small>奇趣冷知識博物館</small></span><a href="#top">回到入口 ↑</a></footer>
+  <dialog id="exhibit-dialog" aria-labelledby="detail-title"><div class="dialog-header"><span id="detail-number" class="eyebrow"></span><button id="close-dialog" class="close-button" type="button" autofocus>關閉 ×</button></div><img id="detail-image" alt="" width="600" height="420"><div class="detail-body"><p id="detail-category" class="eyebrow"></p><h2 id="detail-title"></h2><p id="detail-answer" class="detail-answer"></p><h3>原來是這樣</h3><p id="detail-explanation"></p><div class="fun-fact"><h3>再多知道一點</h3><p id="detail-fun-fact"></p></div><p class="source-label">查證來源</p><a id="detail-source" target="_blank" rel="noopener noreferrer"></a><small class="source-note">來源將於新分頁開啟；部分資料為英文或 PDF。</small></div></dialog>
+</body>
+</html>

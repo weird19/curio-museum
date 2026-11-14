@@ -1,0 +1,80 @@
+[
+  {
+    "id": "animal-001",
+    "category": "animals",
+    "title": "章魚為什麼有三顆心臟？",
+    "hook": "八隻腕足之外，牠還有三顆分工合作的心。",
+    "answer": "兩顆心臟把血液送過鰓以取得氧氣，另一顆則負責將血液送往全身。",
+    "explanation": "章魚的三顆心臟各有工作。兩顆負責把血液送過鰓，讓血液獲得氧氣；另一顆再把血液送到身體其他部位。因此，三顆心並不是三份備用品，而是一起構成循環系統。章魚攜帶氧氣的方式也與人類不同：牠使用含銅的血藍蛋白，人類則使用含鐵的血紅蛋白。這種差異讓章魚的血液呈現藍色，是牠另一項特別的身體構造。",
+    "funFact": "章魚的血液是藍色的，與運送氧氣的血藍蛋白含銅有關。",
+    "image": "assets/images/animal-001.svg",
+    "sourceName": "英國自然史博物館｜Octopuses keep surprising us",
+    "sourceUrl": "https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us-here-are-eight-examples-how.html",
+    "verified": true
+  },
+  {
+    "id": "science-001",
+    "category": "science",
+    "title": "夕陽為什麼會變成紅色？",
+    "hook": "太陽沒有換燈泡，是陽光走了更遠的路。",
+    "answer": "日落時陽光穿越更長的大氣路徑，較多藍光被散射，抵達眼睛的光便偏紅、偏黃。",
+    "explanation": "看似白色的陽光，其實包含多種顏色。光進入大氣後，會被空氣分子散射，也就是改變前進方向；其中波長較短的藍光比紅光更容易被散射。當太陽接近地平線，陽光必須穿過比正午更長的大氣路徑，沿途更多藍光被散向其他方向。相對之下，紅色與黃色的光較容易沿著路徑抵達眼睛，於是我們看到暖色的夕陽。",
+    "funFact": "火星的情況不同：細小塵埃讓日落時太陽附近的天空呈現藍灰色。",
+    "image": "assets/images/science-001.svg",
+    "sourceName": "NASA Space Place｜Why Is the Sky Blue?",
+    "sourceUrl": "https://spaceplace.nasa.gov/blue-sky/en/",
+    "verified": true
+  },
+  {
+    "id": "history-001",
+    "category": "history",
+    "title": "羅塞塔石碑為何刻了三種文字？",
+    "hook": "同一份法令，留下三種書寫版本。",
+    "answer": "石碑以聖書體、世俗體及古希臘文字，重複記錄同一份祭司法令。",
+    "explanation": "羅塞塔石碑上的三個區塊，不是三篇毫無關係的故事，而是同一份祭司法令的不同書寫版本：聖書體、世俗體與古希臘文字。法令在西元前一九六年由埃及祭司議定，內容讚頌托勒密五世，並列出祭司授予他的榮譽。三種文字並列，為後來研究者提供了互相比對的材料，也讓這塊殘缺石碑在古埃及文字的解讀歷程中成為重要線索。",
+    "funFact": "石碑在一七九九年於拉希德被發現；這座城市被歐洲人稱作 Rosette，成為石碑名稱的由來。",
+    "image": "assets/images/history-001.svg",
+    "sourceName": "大英博物館｜Hieroglyphs 展覽指南（PDF）",
+    "sourceUrl": "https://www.britishmuseum.org/sites/default/files/2022-10/Hieroglyphs_unlocking_ancient_Egypt_large_print_guide_The_British_Museum.pdf",
+    "verified": true
+  },
+  {
+    "id": "everyday-001",
+    "category": "everyday",
+    "title": "為什麼在冰裡加鹽會更冷？",
+    "hook": "冰正在融化，混合物卻可能變得更冷。",
+    "answer": "鹽溶入水後，水重新結冰的速率降低；冰融化仍需吸收能量，使冰鹽水混合物降溫。",
+    "explanation": "冰與水混合時，一部分冰融化，也有一部分水重新結冰。融化需要吸收能量，結冰則釋放能量；兩個過程速率相同時，溫度可以保持穩定。加入鹽並讓它溶解後，鹽水重新結冰的速率會降低。這時冰融化所吸收的能量，沒有被結冰釋放的能量完全補回，混合物便會變冷。這裡改變的是水分子彼此之間的作用，而不是拆開水分子本身。",
+    "funFact": "美國化學學會指出，其他能在冷水中良好溶解的物質也可產生類似作用；鹽因易取得且便宜而常被選用。",
+    "image": "assets/images/everyday-001.svg",
+    "sourceName": "美國化學學會｜Why does salt make ice colder?（PDF）",
+    "sourceUrl": "https://www.acs.org/content/dam/acsorg/msc/downloads/chapter-2/lesson-4/ch2-l4-teacher-background.pdf",
+    "verified": true
+  },
+  {
+    "id": "animal-002",
+    "category": "animals",
+    "title": "為什麼火鶴是粉紅色的？",
+    "hook": "這身粉紅羽衣，祕密藏在菜單裡。",
+    "answer": "火鶴吃下藻類及鹵蝦等食物中的類胡蘿蔔素，身體代謝這些色素後，讓羽毛呈現粉紅色。",
+    "explanation": "火鶴的粉紅色與食物有關。許多植物會製造紅、黃或橙色的天然色素，統稱為類胡蘿蔔素；微小藻類也含有這類色素，而吃藻類的鹵蝦又把色素帶進食物鏈。火鶴吃下藻類與鹵蝦後，身體會代謝這些色素，讓羽毛呈現粉紅色。不過，牠們並不是一出生就穿著粉紅羽衣：剛孵化的幼鳥有白灰色絨羽，需要數年才逐漸長成招牌模樣。",
+    "funFact": "火鶴會把頭倒過來放入水中覓食，利用喙邊緣梳子般的構造留下食物、排出水。",
+    "image": "assets/images/animal-002.svg",
+    "sourceName": "史密森尼國家動物園｜Why Are Flamingos Pink? And Other Flamingo Facts",
+    "sourceUrl": "https://nationalzoo.si.edu/animals/news/why-are-flamingos-pink-and-other-flamingo-facts",
+    "verified": true
+  },
+  {
+    "id": "science-002",
+    "category": "science",
+    "title": "金星的一天真的比一年還長嗎？",
+    "hook": "先別急著點頭，要看「一天」怎麼算。",
+    "answer": "若指自轉一圈，是的：約需 243 地球日，比一年的約 225 地球日長；若指兩次日出之間，則約為 117 地球日。",
+    "explanation": "關鍵在於「一天」有不同定義。金星相對遠方恆星自轉一圈，稱為恆星日，約需二百四十三個地球日；繞太陽一圈的一年則約二百二十五個地球日，所以自轉週期確實比一年長。但從一次日出到下一次日出的太陽日，要同時考慮自轉與繞日公轉。金星自轉方向與地球相反，兩次日出的間隔約為一百一十七個地球日，反而比金星的一年短。",
+    "funFact": "由於金星反向自轉，若以地表觀察者的角度描述太陽運動，太陽會從西方升起、東方落下。",
+    "image": "assets/images/science-002.svg",
+    "sourceName": "NASA Space Place｜All About Venus",
+    "sourceUrl": "https://spaceplace.nasa.gov/all-about-venus/en/",
+    "verified": true
+  }
+]
