@@ -76,6 +76,6 @@ AGENTS.md 為這次擴充提供以下規範：
 ## GitHub 與網站連結
 
 - **GitHub Repository**：[Curio Museum](https://github.com/weird19/curio-museum)
-- **線上網站**：(https://weird19.github.io/curio-museum/)
+- **線上網站**：[Curio Museum｜奇趣冷知識博物館](https://weird19.github.io/curio-museum/)
 
 網站使用 GitHub Pages 發布，無須安裝額外套件即可透過瀏覽器瀏覽。
